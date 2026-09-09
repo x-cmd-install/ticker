@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1067,
       "digest": "sha256:ba4211dabb28821b04bcc3600fc4dbe4db6e336532440b9cd9ea08ee2cb8bc73",
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2026-06-21T17:09:33Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3507620,
       "digest": "sha256:b15c03a19e4833f91f3378829b6a0d051dd00648d09861dca9fab4ef7c460df1",
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2026-06-21T17:09:33Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3524786,
       "digest": "sha256:fa4991f1c963559d0a27dec6ddc35cff411954a6f62ae3c2c3dc24d9ffedc12a",
-      "download_count": 1512,
+      "download_count": 1533,
       "created_at": "2026-06-21T17:09:31Z",
       "updated_at": "2026-06-21T17:09:32Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3515467,
       "digest": "sha256:44204575e0f49387572dc50c61c365f22f9e6fc33a24e5200381c54decded71a",
-      "download_count": 631,
+      "download_count": 636,
       "created_at": "2026-06-21T17:09:32Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3770301,
       "digest": "sha256:42c6618a8fe3a598fa2f864348628458dbe2013f0f5880dc5edb296e6062ddb7",
-      "download_count": 1199,
+      "download_count": 1202,
       "created_at": "2026-06-21T17:09:33Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-386.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3851302,
       "digest": "sha256:4bcbe7888077d27a43e4b802123f1f13e7f6e94c6b283c6ab37714b2680ce9e5",
-      "download_count": 1278,
+      "download_count": 1281,
       "created_at": "2026-06-21T17:09:32Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.tar.gz"
