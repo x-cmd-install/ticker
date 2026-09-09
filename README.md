@@ -7,7 +7,7 @@ Track stocks, crypto, and derivatives prices and positions in real time from you
 - **Latest release**: `v5.3.0` (2026-06-21)
 - **Last commit**: 2026-06-28
 - **License**: GPL-3.0
-- **Stars**: 6229 · **Forks**: 340 · **Open issues**: 229 · **Contributors**: 20
+- **Stars**: 6228 · **Forks**: 340 · **Open issues**: 229 · **Contributors**: 20
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/ticker> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:04:32Z._
+_Last regenerated: 2026-09-09T04:34:42Z._
