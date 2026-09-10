@@ -1,24 +1,74 @@
 # ticker
 
+[中文版本](./README.cn.md)
+
 Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 
-- **Upstream**: <https://github.com/achannarasappa/ticker>
-- **Homepage**: <>
-- **Latest release**: `v5.3.0` (2026-06-21)
-- **Last commit**: 2026-06-28
-- **License**: GPL-3.0
-- **Stars**: 6229 · **Forks**: 339 · **Open issues**: 229 · **Contributors**: 20
+![ticker](https://repo.x-cmd.io/ticker.svg)
 
-## Installation
+## Install
 
 ```sh
 x install ticker
 ```
 
-See <https://x-cmd.com/install/ticker> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/achannarasappa/ticker>
+- **License**: GPL-3.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:34:56Z._
+- **Latest**: `v5.3.0` (2026-06-21)
+- **Last commit**: 2026-06-28
+- **Assets in release**: 12
+- **Published**: 2026-06-21T17:09:34Z
+
+## Popularity
+
+- **Stars**: 6,229 · **Forks**: 339 · **Open issues**: 229 · **Contributors**: 20
+
+## Totals (cumulative)
+
+- **Releases**: 75 · **Merged PRs**: 23 · **Open PRs**: 11 · **Closed issues**: 207 · **Open issues**: 22 · **Commits**: 474
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 3 | 3 | 0 | 1 | 5 |
+| 360d | 2025-09-15 | 5 | 4 | 10 | 11 | 4 | 33 |
+
+## Code size
+
+Total: **13,898** lines of code across **98** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 13,180 | 664 | 2,664 | 80 |
+| Yaml | 573 | 46 | 25 | 14 |
+| Json | 135 | 0 | 0 | 1 |
+| Dockerfile | 5 | 0 | 4 | 1 |
+| Sh | 5 | 2 | 0 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.7 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## Improve this data
+
+Install metadata for ticker lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ticker` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ticker.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:34:25Z._
