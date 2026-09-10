@@ -22,7 +22,23 @@ x install ticker
 - **Latest**: `v5.3.0` (2026-06-21)
 - **Last commit**: 2026-06-28
 - **Assets in release**: 12
-- **Published**: 2026-06-21T17:09:34Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ticker-5.3.0-checksums.txt](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-checksums.txt) | 1.0 KiB | `other` |
+| [ticker-5.3.0-linux-386.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [ticker-5.3.0-linux-amd64.deb](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.deb) | 3.3 MiB | `native/linux/x64` |
+| [ticker-5.3.0-linux-amd64.rpm](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.rpm) | 3.3 MiB | `native/linux/x64` |
+| [ticker-5.3.0-linux-amd64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [ticker-5.3.0-linux-arm64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-arm64.tar.gz) | 3.0 MiB | `native/linux/arm64` |
+| [ticker-5.3.0-linux-armv6.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-armv6.tar.gz) | 3.2 MiB | `native/linux/arm` |
+| [ticker-5.3.0-mac-amd64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-amd64.tar.gz) | 3.6 MiB | `native/linux/x64` |
+| [ticker-5.3.0-mac-arm64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
+| [ticker-5.3.0-windows-386.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-386.tar.gz) | 3.6 MiB | `native/win/x64` |
+| [ticker-5.3.0-windows-amd64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.tar.gz) | 3.7 MiB | `native/win/x64` |
+| [ticker-5.3.0-windows-amd64.zip](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.zip) | 3.7 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -67,8 +83,8 @@ Lowest-scoring checks:
 Install metadata for ticker lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ticker` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ticker.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ticker.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:34:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:52Z._

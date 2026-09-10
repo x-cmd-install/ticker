@@ -4,7 +4,7 @@
 
 Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 
-![ticker](https://repo.x-cmd.io/ticker.svg)
+![ticker](https://repo.x-cmd.io/ticker.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install ticker
 - **最新版本**: `v5.3.0` (2026-06-21)
 - **最近提交**: 2026-06-28
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-06-21T17:09:34Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ticker-5.3.0-checksums.txt](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-checksums.txt) | 1.0 KiB | `other` |
+| [ticker-5.3.0-linux-386.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [ticker-5.3.0-linux-amd64.deb](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.deb) | 3.3 MiB | `native/linux/x64` |
+| [ticker-5.3.0-linux-amd64.rpm](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.rpm) | 3.3 MiB | `native/linux/x64` |
+| [ticker-5.3.0-linux-amd64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [ticker-5.3.0-linux-arm64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-arm64.tar.gz) | 3.0 MiB | `native/linux/arm64` |
+| [ticker-5.3.0-linux-armv6.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-armv6.tar.gz) | 3.2 MiB | `native/linux/arm` |
+| [ticker-5.3.0-mac-amd64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-amd64.tar.gz) | 3.6 MiB | `native/linux/x64` |
+| [ticker-5.3.0-mac-arm64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
+| [ticker-5.3.0-windows-386.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-386.tar.gz) | 3.6 MiB | `native/win/x64` |
+| [ticker-5.3.0-windows-amd64.tar.gz](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.tar.gz) | 3.7 MiB | `native/win/x64` |
+| [ticker-5.3.0-windows-amd64.zip](https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.zip) | 3.7 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -71,4 +87,4 @@ ticker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:34:26Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:53Z._
