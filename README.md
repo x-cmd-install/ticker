@@ -51,7 +51,7 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 23 · **Open PRs**: 11 · **Closed issues**: 207 · **Open issues**: 22 · **Commits**: 474
+- **Releases**: 75 · **Merged PRs**: 23 · **Open PRs**: 11 · **Closed issues**: 208 · **Open issues**: 21 · **Commits**: 474
 
 ## Recent activity
 
@@ -61,8 +61,8 @@ Lowest-scoring checks:
 | last60d | 2026-07-13 | 0 | 0 | 2 | 0 | 1 | 0 |
 | 90d | 2026-06-13 | 1 | 3 | 3 | 0 | 1 | 5 |
 | last180d | 2026-03-15 | 2 | 3 | 9 | 1 | 1 | 24 |
-| 360d | 2025-09-16 | 5 | 4 | 10 | 11 | 4 | 33 |
-| last720d | 2024-09-21 | 16 | 7 | 10 | 44 | 7 | 137 |
+| 360d | 2025-09-16 | 5 | 4 | 10 | 12 | 3 | 33 |
+| last720d | 2024-09-21 | 16 | 7 | 10 | 45 | 6 | 137 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ticker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:29Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:38:10Z._
