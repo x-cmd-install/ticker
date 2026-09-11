@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.3.0"
   latestRelease: "v5.3.0"
   latestPrerelease: "v0.3.0"
-  collectedAt: 2026-09-11T00:21:23Z
+  collectedAt: 2026-09-11T04:38:06Z
 timeline:
   created: 2021-01-24
   lastCommit: 2026-06-28
@@ -65,27 +65,27 @@ recent:
     release: 5
     mergedPR: 4
     openPR: 10
-    closedIssue: 11
-    openIssue: 4
+    closedIssue: 12
+    openIssue: 3
     commit: 33
   last720d:
     since: 2024-09-21
     release: 16
     mergedPR: 7
     openPR: 10
-    closedIssue: 44
-    openIssue: 7
+    closedIssue: 45
+    openIssue: 6
     commit: 137
 total:
   release: 75
   mergedPR: 23
   openPR: 11
-  closedIssue: 207
-  openIssue: 22
+  closedIssue: 208
+  openIssue: 21
   commit: 474
 ---
 path: /home/runner/.x-repo/github.com/achannarasappa/ticker
-collectedAt: 2026-09-11T00:21:24Z
+collectedAt: 2026-09-11T04:38:07Z
 loc:
   Go:
     code: 13180
