@@ -4,7 +4,7 @@
 
 Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 
-[![x-cmd/install — ticker Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ticker.svg)](https://x-cmd.com/install/ticker)
+[![x-cmd/install — ticker Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ticker.svg)](https://x-cmd.com/install/ticker)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,235 · **Forks**: 341 · **Open issues**: 230 · **Contributors**: 20
+- **Stars**: 6,237 · **Forks**: 341 · **Open issues**: 230 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 4 | 0 | 2 | 0 |
-| last180d | 2026-03-26 | 2 | 3 | 10 | 1 | 2 | 24 |
-| 360d | 2025-09-27 | 5 | 4 | 11 | 12 | 4 | 33 |
-| last720d | 2024-10-02 | 16 | 7 | 11 | 45 | 7 | 137 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-06-25 | 0 | 1 | 4 | 0 | 2 | 0 |
+| last180d | 2026-03-27 | 2 | 3 | 10 | 1 | 2 | 24 |
+| 360d | 2025-09-28 | 5 | 4 | 11 | 12 | 4 | 33 |
+| last720d | 2024-10-03 | 16 | 7 | 11 | 45 | 7 | 137 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ticker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:49:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:48:20Z._
