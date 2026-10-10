@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1067,
       "digest": "sha256:ba4211dabb28821b04bcc3600fc4dbe4db6e336532440b9cd9ea08ee2cb8bc73",
-      "download_count": 88,
+      "download_count": 91,
       "created_at": "2026-06-21T17:09:33Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3505161,
       "digest": "sha256:1b7467577d9744806013e9dc84104da764a26d1efeb86fad95cf6b3331410607",
-      "download_count": 42,
+      "download_count": 44,
       "created_at": "2026-06-21T17:09:33Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3524786,
       "digest": "sha256:fa4991f1c963559d0a27dec6ddc35cff411954a6f62ae3c2c3dc24d9ffedc12a",
-      "download_count": 2333,
+      "download_count": 2419,
       "created_at": "2026-06-21T17:09:31Z",
       "updated_at": "2026-06-21T17:09:32Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3164638,
       "digest": "sha256:98f1316362cd48a2a235bb2088fc8b7514e58aaeb6b3a3992e0b70facfde94ca",
-      "download_count": 77,
+      "download_count": 79,
       "created_at": "2026-06-21T17:09:31Z",
       "updated_at": "2026-06-21T17:09:32Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-linux-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3794050,
       "digest": "sha256:bc764ccb3681fcdb996bf342c7344696774621a1873be6ed5c31275d61de3695",
-      "download_count": 143,
+      "download_count": 145,
       "created_at": "2026-06-21T17:09:32Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3515467,
       "digest": "sha256:44204575e0f49387572dc50c61c365f22f9e6fc33a24e5200381c54decded71a",
-      "download_count": 755,
+      "download_count": 767,
       "created_at": "2026-06-21T17:09:32Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-mac-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3770301,
       "digest": "sha256:42c6618a8fe3a598fa2f864348628458dbe2013f0f5880dc5edb296e6062ddb7",
-      "download_count": 1408,
+      "download_count": 1417,
       "created_at": "2026-06-21T17:09:33Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-386.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3851302,
       "digest": "sha256:4bcbe7888077d27a43e4b802123f1f13e7f6e94c6b283c6ab37714b2680ce9e5",
-      "download_count": 1498,
+      "download_count": 1508,
       "created_at": "2026-06-21T17:09:32Z",
       "updated_at": "2026-06-21T17:09:33Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3851359,
       "digest": "sha256:c661900c72a2d8a0c1cbba218afef7e047aa8b829d31f5c0bb1667a86436cc76",
-      "download_count": 629,
+      "download_count": 638,
       "created_at": "2026-06-21T17:09:32Z",
       "updated_at": "2026-06-21T17:09:32Z",
       "browser_download_url": "https://github.com/achannarasappa/ticker/releases/download/v5.3.0/ticker-5.3.0-windows-amd64.zip"
@@ -474,13 +474,13 @@
   "body": "## Changelog\n* 312dc14f333e1fb12af05d2c3bc96198c400d7b9 ci: lint pull request titles to enforce conventional squash commits (#373)\n* 164a5a4872e2651da148fd09f0b987492305ede5 feat: add minor currency support (#372)\n* 0a22557a41433af992ca7de560c89ec29d5d85a5 feat: show update notice in place of refresh timer in footer\n* 4b44af435f970914f775d3ecb19bb807d7c9f905 feat: add update check with 3-hour cache and periodic in-session re-check\n* 233855b66c0ca38fd7014d9bb5f8b0e25a7b19b4 build: upgrade to go 1.26.2 and add govulncheck as go tool\n* dbf7bf4355ed06ce5deacf1fa26055afac00ce40 ci: add pre-commit and pre-push git hooks\n* 6005d0c0b87447691d9d878af6a5884033f10def ci: fix ginkgo flag order in test-contract workflow\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/achannarasappa/ticker/releases/342565989/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   }
