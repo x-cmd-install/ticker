@@ -30,8 +30,8 @@ Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-04-23 | 2 | 3 | 10 | 1 | 2 | 5 |
-| 360d | 2025-10-25 | 4 | 4 | 12 | 11 | 3 | 32 |
-| last720d | 2024-10-30 | 16 | 7 | 12 | 44 | 6 | 137 |
+| 30d | 2026-09-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last180d | 2026-04-24 | 2 | 3 | 10 | 1 | 2 | 5 |
+| 360d | 2025-10-26 | 4 | 4 | 12 | 11 | 3 | 32 |
+| last720d | 2024-10-31 | 16 | 7 | 12 | 44 | 6 | 137 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ticker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:42:09Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:34:55Z._
