@@ -1,0 +1,127 @@
+about:
+  description: "Track stocks, crypto, and derivatives prices and positions in real time from your terminal"
+  license: GPL-3.0
+  homepage: 
+  head: 3e659aa
+  archived: false
+  latestVersion: "v5.3.0"
+  latestRelease: "v5.3.0"
+  latestPrerelease: "v0.3.0"
+  collectedAt: 2026-11-17T07:54:13Z
+timeline:
+  created: 2021-01-24
+  lastCommit: 2026-06-28
+  lastVersion: 2026-06-21
+  lastRelease: 2026-06-21
+  lastPrerelease: 2021-01-25
+popularity:
+  star: 6269
+  watcher: 60
+  fork: 346
+  release: 75
+  contributor: 20
+  pullRequest: 80
+  issue: 229
+language:
+  Go: 493639
+  Shell: 134
+  Dockerfile: 109
+totalBytes: 493882
+recent:
+  last30d:
+    since: 2026-10-18
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-18
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-19
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last180d:
+    since: 2026-05-21
+    release: 1
+    mergedPR: 3
+    openPR: 5
+    closedIssue: 1
+    openIssue: 2
+    commit: 5
+  last360d:
+    since: 2025-11-22
+    release: 3
+    mergedPR: 4
+    openPR: 12
+    closedIssue: 10
+    openIssue: 2
+    commit: 30
+  last720d:
+    since: 2024-11-27
+    release: 14
+    mergedPR: 7
+    openPR: 12
+    closedIssue: 44
+    openIssue: 4
+    commit: 133
+total:
+  release: 75
+  mergedPR: 23
+  openPR: 13
+  closedIssue: 210
+  openIssue: 19
+  commit: 474
+---
+path: /home/runner/.x-repo/github.com/achannarasappa/ticker
+collectedAt: 2026-11-17T07:54:13Z
+loc:
+  Go:
+    code: 13180
+    comments: 664
+    blanks: 2664
+    files: 80
+  Yaml:
+    code: 573
+    comments: 46
+    blanks: 25
+    files: 14
+  Json:
+    code: 135
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 4
+    files: 1
+  Sh:
+    code: 5
+    comments: 2
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 300
+    blanks: 96
+    files: 7
+total:
+  code: 13962
+  comments: 1014
+  blanks: 2789
+  files: 105
+---
+
+---
